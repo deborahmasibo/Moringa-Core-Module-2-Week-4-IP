@@ -9,6 +9,8 @@
 ## Description
 The project was carried out to create a model that could predict the survival of passengers based of factors such as gender, passenger class and age.
 
+>
+
 # Project 2
 
 ## Email Filtering
