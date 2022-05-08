@@ -1,10 +1,10 @@
 # Project 1
 
-## Titanic Survival Prediction
+## RMS Titanic Survival Prediction
 
 ![alt text](https://cdn.britannica.com/79/4679-050-BC127236/Titanic.jpg)
 
-#### Predicting the survival of passengers that were on the RMS Titanic.
+#### Passenger survival on the RMS Titanic.
 
 ## Description
 The project was carried out to create a model that could predict the survival of passengers based of factors such as gender, passenger class and age.
