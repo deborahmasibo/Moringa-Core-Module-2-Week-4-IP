@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St%C3%B6wer_Titanic.jpg/450px-St%C3%B6wer_Titanic.jpg)
+![alt text](https://cdn.britannica.com/79/4679-050-BC127236/Titanic.jpg)
 
 #### Predicting the survival of passengers that were on the RMS Titanic.
 
