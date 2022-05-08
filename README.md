@@ -1,4 +1,6 @@
-# Titanic Survival Prediction
+# Project 1
+
+## Titanic Survival Prediction
 
 ![alt text](https://cdn.britannica.com/79/4679-050-BC127236/Titanic.jpg)
 
@@ -7,7 +9,9 @@
 ## Description
 The project was carried out to create a model that could predict the survival of passengers based of factors such as gender, passenger class and age.
 
-# Email Filtering
+# Project 2
+
+## Email Filtering
 
 ![alt text](https://www.feedblitz.com/wp-content/uploads/2018/11/Spam-Filter.jpg)
 
